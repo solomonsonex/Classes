@@ -1,0 +1,55 @@
+Write a JavaScript statement to display Hello World.
+
+How can you display your full name using JavaScript?
+
+Write a JavaScript program that displays the result of 15 − 7.
+
+How do you output the sentence Learning JavaScript is easy using JavaScript?
+
+Declare a variable called age and assign it your age.
+
+Create two variables a = 5 and b = 10; how can you display their sum?
+
+Declare a variable called message, assign it the value Welcome Student, and display it.
+
+How do you declare a variable without assigning a value and display it?
+
+Create a variable price and assign it the number 2500; how can you display it?
+
+Declare two number variables and write a program to display their product.
+
+How can you store your country name in a variable and display it?
+
+Create two string variables and join them to form one complete sentence; how would you display the result?
+
+How do you create a boolean variable called isStudent and assign it the value true?
+
+Declare a boolean variable called hasIDCard and assign it the value false.
+
+How do you declare a variable called score without assigning any value and display it?
+
+How can you use typeof to check and display the data type of the variable score?
+
+How do you create an array containing three fruits?
+
+Using the array of fruits, how can you display the first item in the array?
+
+How do you display the total number of items in an array?
+
+How can you add one new item to an array and display the updated array?
+
+Create one number variable, one string variable, and one boolean variable; how can you display all of them?
+
+How do you check and display the data type of each variable created in the previous question?
+
+How can you create an array of five numbers and display the last number in the array?
+
+Write a JavaScript program that displays JavaScript Data Types Practice.
+
+How do you declare a variable and confirm that its value is undefined?
+
+What will be the output of the JavaScript statement console.log(10 + "5")?
+
+What will be the output of console.log(typeof true)?
+
+What will be the output of console.log(typeof [])?
