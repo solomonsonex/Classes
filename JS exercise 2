@@ -1,0 +1,35 @@
+// JavaScript Exercise Questions – Data Types, Arrays & Objects
+
+// DATA TYPES
+
+10. Declare a variable that stores a string and log its type.
+11. Declare a variable that stores a number and log its type.
+12. Declare a variable that stores a boolean value and log its type.
+13. What happens when you add a number and a string together?
+15. What will be the output of 5 + "5"?
+16. What will be the output of "10" - 2?
+17. Convert a string "25" to a number using JavaScript.
+18. Convert a number 100 to a string.
+
+// ARRAYS
+19. What is an array in JavaScript?
+21. How do you create an array with 5 elements?
+22. How do you access the first element of an array?
+23. How do you access the last element of an array?
+24. What is the index of the first element in an array?
+25. What does arr.length return?
+34. Create an array of 5 student names.
+35. Create an array of numbers and calculate the total sum.
+
+// OBJECTS
+37. How is an object different from an array?
+38. Create an object that stores a student’s name, age, and grade.
+39. How do you access a property using dot notation?
+40. How do you access a property using bracket notation?
+41. Add a new property to an existing object.
+42. Update an existing property in an object.
+46. What will typeof [] return and why?
+47. What will typeof {} return?
+48. Create an array of objects representing students.
+49. Access a specific property from an object inside an array.
+60. Explain real-world examples of arrays and objects in JavaScript.
