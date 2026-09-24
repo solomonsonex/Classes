@@ -99,6 +99,35 @@ Do not choose a heading because it looks large. Use CSS for appearance and headi
 
 ### Text meaning and formatting
 
+### Common formatting tags
+
+| Tag | Use |
+| --- | --- |
+| `<b>` | Makes text bold visually without adding special importance. |
+| `<strong>` | Shows that text is important; it is usually displayed in bold. |
+| `<i>` | Displays text in italics for an alternate voice or mood. |
+| `<em>` | Emphasizes text; it is usually displayed in italics. |
+| `<u>` | Underlines text, but should be used carefully because underlined text can look like a link. |
+| `<mark>` | Highlights text as if it were marked with a highlighter. |
+| `<small>` | Displays less important text, such as legal notices or side comments, in a smaller size. |
+| `<del>` | Shows text that has been deleted or removed, usually with a line through it. |
+| `<ins>` | Shows text that has been inserted or added, usually with an underline. |
+| `<s>` | Shows text that is no longer accurate or relevant. |
+| `<sub>` | Displays subscript text below the normal text line. |
+| `<sup>` | Displays superscript text above the normal text line. |
+| `<br>` | Inserts a line break. Use it for meaningful line breaks, not page spacing. |
+| `<hr>` | Represents a thematic break between sections of content. |
+
+Example:
+
+```html
+<p><strong>Important:</strong> Submit your work today.</p>
+<p><em>Remember:</em> Save your file regularly.</p>
+<p>This is <mark>highlighted</mark> text.</p>
+<p>Old price: <del>$20</del> New price: <ins>$15</ins></p>
+<p>Water formula: H<sub>2</sub>O</p>
+<p>Area: 10 m<sup>2</sup></p>
+
 ```html
 <p><strong>Important:</strong> Bring a notebook.</p>
 <p><em>Optional:</em> Bring gardening gloves.</p>
